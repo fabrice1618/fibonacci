@@ -1,3 +1,5 @@
+// suite de fibonacci
+
 #include <stdio.h>
 
 int main()
